@@ -514,11 +514,15 @@ figcaption{
     width:50%;
   }
   .header-social{
-    margin: auto;
-    float: none;
+display: block;
+    float: left;
+  margin: auto;
+  text-align: center;
+  width: 100%;
   }
   .social-link-wrap{
-    width: 33.3%;
+    width: 25%;
+
   }
   .header-social a{
     margin: auto;
