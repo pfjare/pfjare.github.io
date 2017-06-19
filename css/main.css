@@ -252,6 +252,11 @@ body.home .header{
   background: url('../img/email_black.svg'),
   linear-gradient(transparent, transparent);
 }
+#github {
+  background: url('../img/github.png');
+  background: url('../img/github.svg'),
+  linear-gradient(transparent, transparent);
+}
 
 .header a img:hover{
   transition: transform 0.3s;
